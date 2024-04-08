@@ -135,6 +135,6 @@
             </td>
         </tr>
     </table>
-    <footer style="text-align: center;">PDF generado en: <a style="font-weight:bold; color:white;" href="camanchaca.vinculamos.org">cftaysen.vinculamos.org</a> | CFT Estatal Región de Aysén</footer>
+    <footer style="text-align: center;">PDF generado en: <a style="font-weight:bold; color:white;" href="cftaysen.vinculamos.org">cftaysen.vinculamos.org</a> | CFT Estatal Región de Aysén</footer>
 </body>
 </html>
