@@ -20,7 +20,7 @@
 
 <body>
     <div style="text-align: center;">
-        <img src="https://cftpucv.vinculamos.org/img/Logo-CFT-Estatal-Aysen.png" alt="logo cftpucv" style="width:293px;heigh:81px;">
+        <img src="https://cftpucv.vinculamos.org/img/Logo-CFT-Estatal-Aysen.png" alt="logo CFTAYSEN" style="width:293px;heigh:81px;">
       </div>
 
     {{-- {{dd($odsValues)}} --}}
@@ -105,7 +105,7 @@
     </div>
 
     <footer>
-        <p>PDF generado en: https://cftpucv.vinculamos.org/ | CFTPUCV  </p>
+        <p>PDF generado en: https://cftaysen.vinculamos.org/ | CFTAysén  </p>
     </footer>
 </body>
 
