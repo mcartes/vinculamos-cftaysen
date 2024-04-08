@@ -375,10 +375,7 @@
             inputMetaSocios.value = '';
         }
 
-        function limpiarInputIni() {
-            const inputMetaIniciativas = document.querySelector('#div_{{ $sede->sede_codigo }} input');
-            inputMetaIniciativas.value = '';
-        }
+
 
         function limpiarInputCarre() {
             const inputMetaCarreras = document.querySelector('#div_carreras input');
